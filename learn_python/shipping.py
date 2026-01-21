@@ -1,5 +1,4 @@
 # Sal's Shipping
-# Sonny Li
 
 weight = 80
 
